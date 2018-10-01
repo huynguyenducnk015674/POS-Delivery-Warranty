@@ -1,4 +1,8 @@
 Console.print("I'm Huy Nguyen");
 console.print("I'm from NK");
 '-----------------------Add more line 
+List<string> _alist=new List<string>();
+_alist.add("AA");
+-alist.add("BB");
+_alist.forach(x=> x=="AA").tolist().FirstOrDefault();
 Readline(); 
