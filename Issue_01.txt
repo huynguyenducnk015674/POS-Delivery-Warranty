@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Console("Print HelloWorld");
-=======
 Console.print("I'm Huy Nguyen");
->>>>>>> FixIssue53
+console.print("I'm from NK");
