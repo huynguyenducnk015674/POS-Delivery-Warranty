@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Console("Print HelloWorld");
+=======
+Console.print("I'm Huy Nguyen");
+>>>>>>> FixIssue53
