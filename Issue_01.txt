@@ -6,3 +6,9 @@ _alist.add("AA");
 -alist.add("BB");
 _alist.forach(x=> x=="AA").tolist().FirstOrDefault();
 Readline(); 
+----------------------------------------------------------
+Private void A()
+{
+	Println("This is function A");
+	Readline();
+}
